@@ -1,4 +1,3 @@
-# 在此处输入标题
 #Paper Draft
 
 This is a paper draft for the course CS6480, Advanced Networking at the University of Utah, Fall 2014.
