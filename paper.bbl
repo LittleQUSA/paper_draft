@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{iscsi}
+{iSCSI}.
+\newblock \url{http://zh.wikipedia.org/wiki/ISCSI}.
+
+\bibitem{smore}
+{\sc Cho, J., Nguyen, B., Banerjee, A., Ricci, R., Van~der Merwe, J., and Webb,
+  K.}
+\newblock Smore: Software-defined networking mobile offloading architecture.
+\newblock In {\em Proceedings of the 4th Workshop on All Things Cellular:
+  Operations, Applications, \&\#38; Challenges\/} (New York, NY, USA, 2014),
+  AllThingsCellular '14, ACM, pp.~21--26.
+
+\bibitem{phantomnet}
+{\sc {Flux Group, University of Utah}}.
+\newblock {PhantomNet}.
+\newblock \url{https://www.phantomnet.org/}.
+
+\bibitem{smog}
+{\sc Jalaparti, V., Caesar, M., Lee, S., Pang, J., and Van~der Merwe, J.}
+\newblock Smog: A cloud platform for seamless wide area migration of online
+  games.
+\newblock In {\em Proceedings of the 11th Annual Workshop on Network and
+  Systems Support for Games\/} (Piscataway, NJ, USA, 2012), NetGames '12, IEEE
+  Press, pp.~9:1--9:6.
+
+\bibitem{drbd}
+{\sc LINBIT}.
+\newblock {DRBD}.
+\newblock \url{ http://www.drbd.org/}.
+
+\bibitem{cloudlets}
+{\sc Satyanarayanan, M., Bahl, P., Caceres, R., and Davies, N.}
+\newblock The case for vm-based cloudlets in mobile computing.
+\newblock {\em IEEE Pervasive Computing 8}, 4 (Oct. 2009), 14--23.
+
+\end{thebibliography}
